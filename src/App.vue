@@ -1,26 +1,15 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="Welcome to Your Vue.js App" />
+  <QRView />
 </template>
 
 <script>
-import HelloWorld from "./components/HelloWorld.vue";
-
+import QRView from "./view/QRView.vue";
 export default {
   name: "App",
   components: {
-    HelloWorld,
+    QRView,
   },
 };
 </script>
 
-<style lang="scss">
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
-</style>
+<style lang="scss" src="./styles/globals.scss"></style>
