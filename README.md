@@ -33,4 +33,6 @@ npm run lint
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Vue.js](https://vuejs.org/)
 
+Generate QR's here: [https://qr-generator.alejandrosandi.com](https://qr-generator.alejandrosandi.com)
+<br />
 Visit other projects in my portfolio: [https://alejandrosandi.com](https://alejandrosandi.com)
