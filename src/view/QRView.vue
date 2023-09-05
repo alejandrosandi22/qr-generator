@@ -18,7 +18,7 @@ export default {
   name: "QRView",
   data() {
     return {
-      value: "https://alejandrosandi.com",
+      value: "https://alejandrosandi.dev",
     };
   },
   components: {
